@@ -1,3 +1,1 @@
-`python
-  python oyun.py
-`
+`python oyun.py`
